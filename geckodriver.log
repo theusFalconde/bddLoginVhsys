@@ -1,0 +1,31 @@
+1598476868188	geckodriver	INFO	Listening on 127.0.0.1:57233
+1598476869193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2qk4Zn"
+1598476890956	Marionette	INFO	Listening on port 44097
+1598476890997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598476917970	Marionette	INFO	Stopped listening on port 44097
+1598476945190	geckodriver	INFO	Listening on 127.0.0.1:39855
+1598476945208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevV04I3"
+1598476952061	Marionette	INFO	Listening on port 33673
+1598476952139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598476970302	Marionette	INFO	Stopped listening on port 33673
+1598476976338	geckodriver	INFO	Listening on 127.0.0.1:56807
+1598476977349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUwV2zM"
+1598476996033	Marionette	INFO	Listening on port 45365
+1598476997354	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598477020761	Marionette	INFO	Stopped listening on port 45365
+1598477464313	geckodriver	INFO	Listening on 127.0.0.1:60037
+1598477465316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBOMdGT"
+1598477475570	Marionette	INFO	Listening on port 37867
+1598477475791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598477496314	Marionette	INFO	Stopped listening on port 37867
+1598477685939	geckodriver	INFO	Listening on 127.0.0.1:36421
+1598477686940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezsya0O"
+1598477694513	Marionette	INFO	Listening on port 34735
+1598477694568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598477702332	Marionette	INFO	Stopped listening on port 34735
+1598477998624	geckodriver	INFO	Listening on 127.0.0.1:48131
+1598477999627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOF5Tlr"
+*** You are running in headless mode.
+1598478006060	Marionette	INFO	Listening on port 44157
+1598478006155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598478014667	Marionette	INFO	Stopped listening on port 44157
